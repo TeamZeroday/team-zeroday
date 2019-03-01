@@ -25,7 +25,7 @@ Test Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more information about repairs please see [zeroday tech support](https://vladi443.github.io/team-zeroday/).
+For more information about repairs please see [zeroday tech support](https://vladi443.github.io/team-zeroday/about).
 
 ### Competitions
 
